@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
         items.clear()
 
-nnnnnnnnnnn
+
         for (i in name.indices){
             items.add(Item(name[i],
                 image.getResourceId(i,0)))
